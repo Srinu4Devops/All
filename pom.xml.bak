@@ -62,11 +62,7 @@
           <version>2.8.2</version>
         </plugin>
       </plugins>
-	  
-    </pluginManagement>
-	
-  </build>
-  <distributionManagement>
+	  <distributionManagement>
     <!-- <repository>
 		 <id>Daily-Release</id>
 		 <name>DailyHost-Release  Repository</name>
@@ -80,4 +76,7 @@
 		<layout>default</layout>
     </repository>
 	</distributionManagement>
+    </pluginManagement>
+	
+  </build>
 </project>
