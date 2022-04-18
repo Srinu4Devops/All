@@ -67,7 +67,7 @@
 	
   </build>
   <distributionManagement>
-    <!-- <repository>
+    <!--<repository>
 		 <id>Daily-Release</id>
 		 <name>DailyHost-Release  Repository</name>
 		<url>http://localhost:8081/repository/DailyHost-Release/</url>
